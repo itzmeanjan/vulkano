@@ -1,3 +1,5 @@
+> **Warning** I've stopped maintaining this fork !
+
 <img align="left" alt="" src="logo.png" height="150" />
 
 # [Vulkano](https://vulkano.rs)
